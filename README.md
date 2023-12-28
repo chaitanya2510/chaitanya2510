@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Shilvant</h1>
 <h3 align="center">A passionate Full stack Java developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/chaitanya2510/chaitanya2510/assets/105356161/317f6ad5-cc1c-4cb3-9652-42c3d271bb18)
-![Uploading image.png…]()
-">
+<img align="right" alt="coding" width="400" src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3tsJXOziQ5swYmXlSR2Hk3&ust=1703846409552000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLjRwdP4sYMDFQAAAAAdAAAAABAD">
 - 🌱 I’m currently Working with **Spring Framework,Spring Boot, Advance java**
 - ##  👋 I'm Chaitanya, a results-driven Java developer.
 
