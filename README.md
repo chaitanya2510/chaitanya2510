@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Shilvant</h1>
 <h3 align="center">A passionate Full stack Java developer from India</h3>
 
-- 🌱 I’m currently learning **Spring Framework, Advance java**
+- 🌱 I’m currently Working with **Spring Framework,Spring Boot, Advance java**
 - ##  👋 I'm Chaitanya, a results-driven Java developer.
 
-🚀 I bring 1.10 years of expertise in Java, Spring Boot, and API Development. My proficiency extends to Core Java technologies and the Spring framework, and I have a strong grasp of Object-Oriented analysis and design, showcasing mastery in implementing the MVC design pattern.
+🚀 I bring 1.10 years+ of expertise in Java, Spring Boot, and API Development. My proficiency extends to Core Java technologies and the Spring framework, and I have a strong grasp of Object-Oriented analysis and design, showcasing mastery in implementing the MVC design pattern.
 
 💼 In my journey, I've excelled in collaborating with global cross-functional teams, utilizing effective communication and technical skills to deliver high-quality applications. My track record includes valuable contributions to successful project outcomes, and I thrive in dynamic development environments.
 
