@@ -6,7 +6,7 @@
 
 ##  About Me
 
-🚀 I bring 3+ years of expertise in Java, Spring Boot, and API Development. Proficient in Core Java technologies and the Spring framework, I have a strong grasp of Object-Oriented analysis and design, showcasing mastery in implementing the MVC design pattern.
+🚀 I bring 4 years of expertise in Java, Spring Boot, and API Development. Proficient in Core Java technologies and the Spring framework, I have a strong grasp of Object-Oriented analysis and design, showcasing mastery in implementing the MVC design pattern.
 
 💼 Throughout my journey, I've excelled in collaborating with global cross-functional teams, utilizing effective communication and technical skills to deliver high-quality applications. My track record includes valuable contributions to successful project outcomes, and I thrive in dynamic development environments.
 
